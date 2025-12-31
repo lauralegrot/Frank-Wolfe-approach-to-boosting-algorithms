@@ -1,6 +1,5 @@
 # Frank-Wolfe-approach-to-boosting-algorithms
-## Final Project for Optimization for Data Science Course, UniPD
-### Project description
+## Project description
 **Boosting is a powerful ensemble algorithm designed to create a strong learner by combining multiple weak learners**. It is particularly useful for tackling problems involving the optimization of the l1-norm soft margin. Various boosting algorithms have been developed to address this problem: 
 - LPBoost is known for its **fast convergence rate but can become computationally expensive in worst-case scenarios**.
 - ERLPBoost improves LPBoost by introducing **entropy regularization**, which balances the weighting of samples and mitigates overfitting on hard-to-classify examples.
